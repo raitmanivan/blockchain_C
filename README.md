@@ -1,2 +1,3 @@
-# blockchain_C
-Blockchain example in C#
+# Blockchain Proyect
+
+#### Ivan Raitman
